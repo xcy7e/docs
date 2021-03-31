@@ -266,6 +266,7 @@
   * [Testing Reference](resources/references/testing-reference)
     + [Custom E2E Commands](resources/references/testing-reference/e2e-custom-commands.md)
     + [PSH E2E Commands](resources/references/testing-reference/e2e-psh-commands.md)
+  * [Design Reference](resources/references/design-reference.md)
 * [Guidelines](resources/guidelines/README.md)
   * [Code](resources/guidelines/code.md)
     * [Cart Process](resources/guidelines/code/cart-process.md) 
