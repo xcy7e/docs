@@ -36,7 +36,7 @@ When defining custom fields in the `<fields>` element, you can configure additio
     <placeholder>Enter an float...</placeholder>
     <min>0.5</min>
     <max>1.6</max>
-    <steps>0.2</steps>
+    <step>0.2</step>
 </float>
 ```
 
